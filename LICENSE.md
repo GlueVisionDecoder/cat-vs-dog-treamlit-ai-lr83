@@ -1,4 +1,4 @@
-# 
+# ذكي Cat vs Dog Classifier with PyTorch and Streamlit سكريبتات. مع قابلية توسع الذكاء الاصطناعي و تكامل الروبوت الدردشة — مُحسَّن لأقصى أداء.
 
 
 
